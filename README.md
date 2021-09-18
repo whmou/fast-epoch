@@ -4,7 +4,7 @@ convert copied epoch time to UTC+0 human readable with mac notification
 
 ## Prerequisite
 ---
-1. Python 3
+1. Python3 Mac env
 2. Mac Alfred [link](https://www.alfredapp.com/) (optional)
 3. If you don't use Alfred to trigger the app, then put your epoch time as 1st argumment to the ep.py 
 
