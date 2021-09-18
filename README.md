@@ -23,3 +23,4 @@ $ open /System/Applications/Automator.app
 1. Copy epoch time string to the Mac clipboard. <br>ex: 1631937786 or 1631937786000 (In milliseconds)
 2. Call Alfred and type "epoch" to trigger the app.
 3. The reslut will show as the mac notification
+!image(https://github.com/whmou/fast-epoch/blob/main/fast-epoch-example.png)
